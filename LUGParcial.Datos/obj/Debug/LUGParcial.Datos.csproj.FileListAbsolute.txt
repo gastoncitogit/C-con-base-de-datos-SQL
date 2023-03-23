@@ -1,0 +1,18 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Datos\obj\Debug\LUGParcial.Datos.pdb

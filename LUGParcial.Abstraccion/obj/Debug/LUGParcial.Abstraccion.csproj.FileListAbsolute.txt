@@ -1,0 +1,12 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\bin\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\bin\Debug\LUGParcial.Abstraccion.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Abstraccion\obj\Debug\LUGParcial.Abstraccion.pdb

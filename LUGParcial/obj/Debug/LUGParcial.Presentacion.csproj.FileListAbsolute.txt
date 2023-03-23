@@ -1,0 +1,72 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Properties.Resources.resources
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.GenerateResource.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe.config
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmClientes.resources
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.FrmMain.resources
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CopyComplete
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.exe
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmTarjetas.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe.config
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmClientes.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.FrmMain.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmTarjetas.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Properties.Resources.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.GenerateResource.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial\obj\Debug\LUGParcial.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe.config
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmClientes.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.FrmMain.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Properties.Resources.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.GenerateResource.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.Presentacion.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmGifCards.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial\obj\Debug\LUGParcial.frmCompras.resources

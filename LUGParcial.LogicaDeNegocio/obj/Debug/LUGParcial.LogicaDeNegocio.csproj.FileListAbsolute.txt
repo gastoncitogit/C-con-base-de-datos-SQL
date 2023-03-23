@@ -1,0 +1,45 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.LogicaDeNegocio\obj\Debug\LUGParcial.LogicaDeNegocio.pdb

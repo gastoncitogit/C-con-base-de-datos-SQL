@@ -1,0 +1,27 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CopyComplete
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Entidades\obj\Debug\LUGParcial.Entidades.pdb

@@ -1,0 +1,39 @@
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.pdb
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CopyComplete
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.dll
+C:\Users\Badness\Desktop\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\bin\Debug\LUGParcial.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\Primer parcial\LUGParcial.Mapper\obj\Debug\LUGParcial.Mapper.pdb
